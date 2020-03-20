@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-03-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-03-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/makers/farooq/</loc>
+    <lastmod>2020-03-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gravity/</loc>
+    <lastmod>2020-03-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/makers/</loc>
+    <lastmod>2020-03-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-03-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/</loc>
+    <lastmod>2020-03-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/makers/arnette/</loc>
+    <lastmod>2020-02-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/makers/per-erik/</loc>
+    <lastmod>2020-02-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/makers/said/</loc>
+    <lastmod>2020-02-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/makers/nairobi/</loc>
+    <lastmod>2020-02-08T15:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/makers/paras/</loc>
+    <lastmod>2020-02-08T15:09:02+00:00</lastmod>
+  </url>
+  
+</urlset>

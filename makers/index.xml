@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makers on MSF Makes</title>
+    <link>http://example.org/makers/</link>
+    <description>Recent content in Makers on MSF Makes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 15:09:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/makers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Farooq</title>
+      <link>http://example.org/makers/farooq/</link>
+      <pubDate>Sun, 08 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/makers/farooq/</guid>
+      <description>Farooq Khan is a professional engineer with 14 years of experience working in water, sanitation and hygiene, including for the International Rescue Committee, Terra des Hommes, the Norwegian Refugee Council, Save the Children, International Medical Corps and MSF. He has also done engineering work in the USA, Qatar and Pakistan. Farooq has a degree from the University of Engineering and Technology in Pakistan and earned a postgraduate scholarship to study in the USA.</description>
+    </item>
+    
+    <item>
+      <title>Annette</title>
+      <link>http://example.org/makers/arnette/</link>
+      <pubDate>Sat, 08 Feb 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/makers/arnette/</guid>
+      <description>Annette de Jong is a health promotion and community engagement adviser with MSF, based in Amsterdam, The Netherlands. She has been in this position since November 2016. Annette is a specialist nurse with experience in HIV and paediatrics, and holds a Master’s in International Public Health and Foreign Affairs. She has worked with MSF in the field in Bangladesh, Central African Republic, Chad and South Sudan.</description>
+    </item>
+    
+    <item>
+      <title>Erik</title>
+      <link>http://example.org/makers/per-erik/</link>
+      <pubDate>Sat, 08 Feb 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/makers/per-erik/</guid>
+      <description>Since 2016 Per-Erik Eriksson has worked for MSF as a logistician in the Democratic Republic of the Congo and with the Swedish Innovation Unit. He holds a PhD in civil engineering from Chalmers University in Gothenburg, Sweden. After his studies, he further specialised in wood construction and issues of sustainability in construction.</description>
+    </item>
+    
+    <item>
+      <title>Erik</title>
+      <link>http://example.org/makers/said/</link>
+      <pubDate>Sat, 08 Feb 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/makers/said/</guid>
+      <description>Dr Said A. Hassan has worked in the Dagahaley refugee camp, part of the Dadaab refugee complex, since 2009, and for MSF since 2013. He specialises in the care of patients with chronic communicable diseases and chronic non-communicable diseases. Dr Said is a graduate of the School of Public Health in Environmental Health at Kenyatta University, Kenya. He also trained in clinical medicine and surgery at the Kenya Medical Training College.</description>
+    </item>
+    
+    <item>
+      <title>Nairobi</title>
+      <link>http://example.org/makers/nairobi/</link>
+      <pubDate>Sat, 08 Feb 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/makers/nairobi/</guid>
+      <description>The Nairobi Displacement Unit aims to deliver adapted products and concepts to the field that address emerging operational challenges related to refugees, internally displaced persons and people on the move during the first weeks of an emergency.</description>
+    </item>
+    
+    <item>
+      <title>Paras</title>
+      <link>http://example.org/makers/paras/</link>
+      <pubDate>Sat, 08 Feb 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/makers/paras/</guid>
+      <description>Paras Valeh is an infectious disease and tropical medicine specialist with over 10 years of humanitarian field experience, most recently as an epidemiologist. Her interests lie in the field of emerging and neglected infectious diseases, particularly those affecting vulnerable populations living in extreme poverty. She is also an experienced contributor to the Missing Maps project. In between deployments, Paras locums in Australia.</description>
+    </item>
+    
+  </channel>
+</rss>
