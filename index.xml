@@ -6,10 +6,37 @@
     <description>Recent content on MSF Makes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 15:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 15:09:02 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Home-Based Insulin Management</title>
+      <link>http://example.org/cooler/</link>
+      <pubDate>Sun, 22 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/cooler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Mapping for Ebola Emergency Preparedness</title>
+      <link>http://example.org/maps/</link>
+      <pubDate>Sun, 22 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar-powered Hospital Handover</title>
+      <link>http://example.org/solar/</link>
+      <pubDate>Sun, 22 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/solar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +44,9 @@
       <pubDate>Sun, 08 Mar 2020 15:09:02 +0000</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description>about page content of the about page</description>
+      <description>MSF Makes is a collection of innovative projects and tools for you to replicate, improve, share and get involved with. These innovations can improve the way MSF works, and the care we provide to patients and communities.
+They have been tried and tested in the field by doers, makers, inventors and problem-solvers just like you.
+Tell us what you think or submit your own work for the next edition:</description>
     </item>
     
     <item>
@@ -35,6 +64,15 @@
       <pubDate>Sun, 08 Mar 2020 15:09:02 +0000</pubDate>
       
       <guid>http://example.org/gravity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runaway Backpack</title>
+      <link>http://example.org/backpack/</link>
+      <pubDate>Sun, 08 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/backpack/</guid>
       <description></description>
     </item>
     
@@ -81,6 +119,15 @@
       
       <guid>http://example.org/makers/paras/</guid>
       <description>Paras Valeh is an infectious disease and tropical medicine specialist with over 10 years of humanitarian field experience, most recently as an epidemiologist. Her interests lie in the field of emerging and neglected infectious diseases, particularly those affecting vulnerable populations living in extreme poverty. She is also an experienced contributor to the Missing Maps project. In between deployments, Paras locums in Australia.</description>
+    </item>
+    
+    <item>
+      <title>Story of Change: when your story becomes our story</title>
+      <link>http://example.org/story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/story/</guid>
+      <description></description>
     </item>
     
   </channel>

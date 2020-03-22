@@ -6,10 +6,37 @@
     <description>Recent content in Projects on MSF Makes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 15:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 15:09:02 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Home-Based Insulin Management</title>
+      <link>http://example.org/cooler/</link>
+      <pubDate>Sun, 22 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/cooler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Mapping for Ebola Emergency Preparedness</title>
+      <link>http://example.org/maps/</link>
+      <pubDate>Sun, 22 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar-powered Hospital Handover</title>
+      <link>http://example.org/solar/</link>
+      <pubDate>Sun, 22 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/solar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gravity-Fed Water Filtration System</title>
@@ -17,6 +44,24 @@
       <pubDate>Sun, 08 Mar 2020 15:09:02 +0000</pubDate>
       
       <guid>http://example.org/gravity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runaway Backpack</title>
+      <link>http://example.org/backpack/</link>
+      <pubDate>Sun, 08 Mar 2020 15:09:02 +0000</pubDate>
+      
+      <guid>http://example.org/backpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story of Change: when your story becomes our story</title>
+      <link>http://example.org/story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/story/</guid>
       <description></description>
     </item>
     

@@ -4,9 +4,17 @@ body {
 	line-height:1.4;
 }
 
-a {
+a, .navlink {
 	color:#000;
 	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-color: #ccc;
+}
+
+a:hover, .navlink {
+	color:#000;
+	text-decoration: underline !important;
+	text-decoration-color: #000 !important;;
 }
 
 /* menu */
@@ -21,6 +29,8 @@ a {
 
 .tagline {
 	display:inline-block;
+	font-size:0.8em;
+	padding-top:12px;
 }
 
 #toptagline {
@@ -81,10 +91,12 @@ a {
 	width:100%;
 	margin-top:30px;
 	font-weight:700;
+	border-bottom:1px solid #ccc;
+    padding-bottom:20px;
 }
 
 .projectcard p, .makerprofile p {
-	margin-bottom:0px;
+	margin-bottom:4px;
 }
 
 .projectcard_title, .makerprofile_name {
@@ -105,10 +117,24 @@ a {
 
 .lookingout {
 	background-color: #fbe07c;
+	background-clip: content-box;
+	width:100%;
+	margin-top:30px;
+	font-weight:700;
 }
 
 .lookingout_text {
 	padding:20px;
+}
+
+.lookingout p {
+	margin-bottom:4px;
+}
+
+.projectcard_title a:hover ~ .projectcard_title a{
+	color:#000;
+	text-decoration: underline !important;
+	text-decoration-color: #000 !important;;
 }
 
 /* icon fillers */
@@ -141,7 +167,7 @@ a {
 	min-height:300px;
 }
 
-#projectpage li {
+#ingredients li {
 	list-style-type: none;
 	border-bottom: 1px solid #000;
 	padding-bottom:5px;
@@ -149,14 +175,21 @@ a {
 	font-size:0.9em;
 }
 
-#projectpage ul {
+#ingredients ul {
 	padding-left:0px;
+}
+
+.activelearningcomponent {
+	background-color:#f4f4f8;
+	padding:20px;
+	margin-bottom:10px;
 }
 
 .referentstip {
 	background-color:#fbe07c;
 	padding:20px;
 	font-weight:700;
+	margin-bottom:10px;
 }
 
 .referentstipimg {
@@ -182,7 +215,7 @@ a {
 	color:#ed1c24;
 }
 
-.approvaly {
+.approvala {
 	color:#fbe07c;
 }
 
