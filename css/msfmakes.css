@@ -243,3 +243,7 @@ a:hover, .navlink {
 .feedbackbanner a {
 	color:white;
 }
+
+.feedbackbanner p {
+	margin-bottom:0.25em;
+}
