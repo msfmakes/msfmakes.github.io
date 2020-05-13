@@ -230,3 +230,16 @@ a:hover, .navlink {
 	background-color:#fff;
 	padding:20px;
 }
+
+.feedbackbanner {
+	background-color:#d7091e;
+	color:white;
+	margin-left: -16px;
+	margin-right: -16px;
+	padding:16px;
+	margin-bottom:20px;
+}
+
+.feedbackbanner a {
+	color:white;
+}
